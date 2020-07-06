@@ -5,7 +5,7 @@
 
 ## Overview
 
-The code in this repository allows 
+The code in this repository allows: 
 
 1. Training a ResNet50 model with the pre-trained weights used for network initialization
 
