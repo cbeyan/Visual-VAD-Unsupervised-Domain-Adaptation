@@ -75,15 +75,25 @@ Some pre-trained ResNet50 model can be downloaded from this link (https://drive.
 ## Reference
 
 **RealVAD: A Real-world Dataset for Voice Activity Detection**  
-Cigdem Beyan, Muhammad Shahid and Vittorio Murino,
 ```
-"RealVAD: A Real-world Dataset and A Method for Voice Activity Detection 
-by Body Motion Analysis", in IEEE Transactions on Multimedia, IN PRESS.
+C. Beyan, M. Shahid and V. Murino, 
+"RealVAD: A Real-world Dataset and A Method for Voice Activity Detection by Body Motion Analysis," 
+in IEEE Transactions on Multimedia, doi: 10.1109/TMM.2020.3007350.
+```
+```
+@ARTICLE{Beyan2020TMM,
+  author={C. {Beyan} and M. {Shahid} and V. {Murino}},
+  journal={IEEE Transactions on Multimedia}, 
+  title={RealVAD: A Real-world Dataset and A Method for Voice Activity Detection by Body Motion Analysis}, 
+  year={2020},
+  volume={},
+  number={},
+  pages={1-1},}
 ```
 **Voice Activity Detection by Upper Body Motion Analysis and Unsupervised Domain Adaptation**  
 Muhammad Shahid, Cigdem Beyan and Vittorio Murino, ICCVW 2019
 ```
-@inproceedings{shahid2019voice,
+@inproceedings{shahid2019ICCVW,
   title={Voice Activity Detection by Upper Body Motion Analysis and Unsupervised Domain Adaptation},
   author={Shahid, Muhammad and Beyan, Cigdem and Murino, Vittorio},
   booktitle={Proceedings of the IEEE International Conference on Computer Vision Workshops},
